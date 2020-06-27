@@ -9,6 +9,6 @@ This repository serves as the location for a number of projects I've worked on i
 * Project 5 (To be added)
 * Project 6 (To be added)
 * Project 7 (To be added)
-* [Project 8 - Local Dictionary](./Project%208%20-%20Local%20Dictionary/README.md)
+* [Project 8 - Local Dictionary](./Project%208%20-%20Local%20Dictionary)
 * Project 9 (To be added)
 * Project 10 (To be added)
