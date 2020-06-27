@@ -1,6 +1,4 @@
-# datalist.py to be used for cs3b assignment #8
-# You should NOT modify this file, other than for debugging.
-# Do NOT submit this file for assignment.
+# datalist.py to be used for LocalDictionary
 
 class Node:
     """
