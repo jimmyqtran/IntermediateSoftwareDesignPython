@@ -1,5 +1,5 @@
 # Intermediate Software Design in Python
-This repository serves as the location for a number of projects I've worked on in a course in Python object-oriented programming. These projects demonstrate my familarity with the following coding topics: Python sequences, user-defined classes and interfaces, modules, packages, collection classes, threads, lambda expressions, list comprehensions, regular expressions and multi-dimensional arrays. Concept topics include OOP project design, recursion, inheritance, polymorphism, functional programming, linked-lists, FIFOs, LIFOs, event-driven parsing, exceptions and guarded code.
+This repository serves as the location for the curated projects I've written in Python for an intermediate software design course I completed. I occasionally make enhancements or bug fixes for some of these projects for my own learning and benefit. These projects demonstrate my familiarity with the following coding topics: Python sequences, user-defined classes and interfaces, modules, packages, collection classes, threads, lambda expressions, list comprehensions, regular expressions and multi-dimensional arrays. Concept topics include OOP project design, recursion, inheritance, polymorphism, functional programming, linked-lists, FIFOs, LIFOs, event-driven parsing, exceptions and guarded code.
 
 # Table of Contents
 * Project 1 (To be added)
