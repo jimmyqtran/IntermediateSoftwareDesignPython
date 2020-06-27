@@ -6,7 +6,7 @@ This repository serves as the location for the curated projects I've written in 
 * Project 2 (To be added)
 * Project 3 (To be added)
 * Project 4 (To be added)
-* Project 5 (To be added)
+* [Project 5 - 1-bit Full Adder](./Project%205%20-%201%20Bit%20Full%20Adder)
 * Project 6 (To be added)
 * Project 7 (To be added)
 * [Project 8 - Local Dictionary](./Project%208%20-%20Local%20Dictionary)
