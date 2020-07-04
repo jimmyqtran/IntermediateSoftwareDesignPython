@@ -5,7 +5,7 @@ Testing
 """
 
 import unittest
-from assignment10 import *
+from OnlineDictionary import *
 
 
 class TimeFuncTest(unittest.TestCase):
