@@ -11,4 +11,4 @@ This repository serves as the location for the curated projects I've written in 
 * [Project 7 - Map, Filter, Reduce](./Project%207%20-%20Map%2C%20Filter%2C%20Reduce)
 * [Project 8 - Local Dictionary](./Project%208%20-%20Local%20Dictionary)
 * Project 9 (To be added)
-* Project 10 (To be added)
+* [Project 10 - Online Dictionary](./Project%2010%20-%20Online%20Dictionary)
